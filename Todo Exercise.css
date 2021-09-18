@@ -1,0 +1,28 @@
+body {
+    background-image: url('https://images-na.ssl-images-amazon.com/images/I/31S0Ht7jUyL.png');
+    background-repeat: no-repeat;
+    font-size: 1.5em;
+}
+
+.strikethrough {
+    color: gray;
+    text-decoration: line-through;
+}
+
+form {
+    margin-left: 35px;
+}
+
+h1 {
+    margin-left: 25px;
+}
+
+li button {
+    background-color: lightgray;
+    border: 5px;
+    padding: 2px 5px;
+    margin-left: 30px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
